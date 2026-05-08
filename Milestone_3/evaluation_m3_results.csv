@@ -1,0 +1,7 @@
+Model,Mode,Precision@10,Recall,MAP
+VSM,Baseline (M2),0.78,0.0812,0.0694
+VSM,LLM-Augmented (M3),0.835,0.0907,0.0798
+BM25,Baseline (M2),0.83,0.0895,0.0826
+BM25,LLM-Augmented (M3),0.785,0.0843,0.0736
+Embedding,Baseline (M2),0.865,0.0935,0.0892
+Embedding,LLM-Augmented (M3),0.865,0.0956,0.0915

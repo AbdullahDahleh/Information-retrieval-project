@@ -1,0 +1,4 @@
+Model,Precision@10,Recall,MAP
+VSM,0.78,0.0812,0.0694
+BM25,0.83,0.0895,0.0826
+Embedding,0.865,0.0935,0.0892
